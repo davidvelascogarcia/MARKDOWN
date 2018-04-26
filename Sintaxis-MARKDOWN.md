@@ -122,12 +122,12 @@ Código:
 
 Ejemplo de imágen.
 
-![Nombre de la imagen en caso de no cargar](https://es.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
+![Nombre de la imagen en caso de no cargar](http://www.analiticaweb.es/wp-content/uploads/2017/02/markdown.jpg)
 
 Código:
 
 ```
-![Nombre de la imagen en caso de no cargar](https://es.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
+![Nombre de la imagen en caso de no cargar](http://www.analiticaweb.es/wp-content/uploads/2017/02/markdown.jpg)
 ```
 	8. Movimiento en ruta
 
@@ -138,6 +138,7 @@ Ejemplo movimientos en ruta.
 Ejemplo adelante.
 
 [nombre enlace](./ruta a ir)
+
 Código:
 
 ```
@@ -149,6 +150,7 @@ Código:
 Ejemplo atrás.
 
 [nombre enlace](../)
+
 Código:
 ```
 [nombre enlace](../)
