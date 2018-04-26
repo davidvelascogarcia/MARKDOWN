@@ -2,9 +2,10 @@
 Repositorio dedicado a sintaxis, recetas y trucos del lenguaje de marcado MARKDOWN.
 ## Index
 1. ¿Qué es MARKDOWN?
-2. [Sintaxis](./Sintaxis-MARKDOWN)
+2. [Sintaxis](./Sintaxis-MARKDOWN.md)
 3. Referencias
 
+### Descripción del contenido
 
 	1. ¿Qué es MARKDOWN?
 	
@@ -14,7 +15,7 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de co
 	2. Sintaxis
 
 Se adjunta un listado de recetas relativas a la sintaxis del lenguaje de marcado MARKDOWN con ejemplos de uso.
-[Sintaxis MARKDOWN](./Sintaxis-MARKDOWN).
+[Sintaxis MARKDOWN](./Sintaxis-MARKDOWN.md).
 
 	3. Referencias
 
