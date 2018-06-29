@@ -11,7 +11,7 @@
 - [Imágenes](#imágenes)
 - [Desplazamiento entre directorios](#desplazamiento-entre-directorios)
 - [Menciones de usuario](#menciones-de-usuario)
-- [Comentarios de código](#comentarios de código)
+- [Comentarios de código](#comentarios-de-código)
 - [Indices y puntos](#indices-y-puntos)
 - [Indices con hiperenlaces](#indices-con-hiperenlaces)
 
