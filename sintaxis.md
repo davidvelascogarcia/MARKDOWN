@@ -1,27 +1,21 @@
-# Lenguaje de marcado: MARKDOWN
-## Sintaxis: MARKDOWN
+# Lenguaje de marcado: Markdown
 
-Listado de recetas para la sintaxis de Markdown.
+- [Tablas](#tablas)
+- [Listas de tareas](#listas-de-tareas)
+- [Encabezados](#encabezados)
+- [Fuentes](#fuentes)
+	- [Cursivas](#cursivas)
+	- [Negrita](#negrita)
+	- [Negrita y cursiva](#negrita-y-cursiva)
+- [Links](#links)
+- [Imágenes](#imágenes)
+- [Desplazamiento entre directorios](#desplazamiento-entre-directorios)
+- [Menciones de usuario](#menciones-de-usuario)
+- [Comentarios de código](#comentarios de código)
+- [Índices y puntos](#índices-y-puntos)
+- [Índices con hiperenlaces](#índices-con-hiperenlaces)
 
-### TABLA DE CONTENIDOS
-
-	1. Tablas
-	2. Lista de tareas
-	3. Encabezados
-	4. Cursivas
-	5. Negrita
-	6. Negrita y cursiva
-	7. Link
-	8. Imágenes
-	9. Movimiento en ruta
-	10. Menciones
-	11. Comentario de código
-	12. Ińdice y puntos
-
-
-#### Descripción del contenido
-
-	1. Tablas
+## Tablas
 
 Ejemplo de tablas.
 
@@ -31,14 +25,16 @@ Ejemplo de tablas.
 | Cosa 1| Cosa 2|COsa3|cosa|
 
 Código:
-```
+
+```markdown
 
 | Elemento 1 | Elemento 2 | Elemento 3 |
 | ---------- | ---------- | ---------- |
 | Elemento 1 | Elemento 2 | Elemento 3 |
-| Cosa 1| Cosa 2|COsa3|cosa|
+| Cosa 1| Cosa 2|Cosa 3|
 ```
-	2. Lista de tareas
+
+## Listas de tareas
 
 Ejemplo lista de tareas.
 
@@ -48,14 +44,14 @@ Ejemplo lista de tareas.
 
 Código:
 
-```
+```markdown
 - [ ] Elemento 1
 - [ ] Elemento 2
 - [ ] Elemento 3
 
 ```
 
-	3. Encabezados
+## Encabezados
 
 Ejemplo de encabezados.
 
@@ -66,7 +62,7 @@ Ejemplo de encabezados.
 
 Código:
 
-```
+```markdown
 # Nivel 1
 ## Nivel 2
 ### Nivel 3
@@ -74,8 +70,11 @@ Código:
 
 ```
 
+## Fuentes
 
-	4. Cursivas
+Configuración sobre las fuentes de texto.
+
+### Cursivas
 
 Ejemplo de cursivas.
 
@@ -86,7 +85,7 @@ Código:
 `*Mensaje de prueba*`
 
 
-	5. Negrita
+### Negrita
 
 Ejemplo de negrita.
 
@@ -97,7 +96,7 @@ Código:
 `**Mensaje de prueba**`
 
 
-	6. Negrita y cursiva
+### Negrita y cursiva
 
 
 Ejemplo de negrita y cursiva.
@@ -108,7 +107,7 @@ Código:
 
 `***Mensaje de prueba***`
 
-	7. Link
+## Links
 
 Ejemplo de link.
 
@@ -118,7 +117,7 @@ Código:
 
 `[link](www.google.es)`
 
-	7. Imágenes
+## Imágenes
 
 Ejemplo de imágen.
 
@@ -126,10 +125,10 @@ Ejemplo de imágen.
 
 Código:
 
-```
+```markdown
 ![Nombre de la imagen en caso de no cargar](http://www.analiticaweb.es/wp-content/uploads/2017/02/markdown.jpg)
 ```
-	8. Movimiento en ruta
+## Desplazamiento entre directorios
 
 Ejemplo movimientos en ruta.
 
@@ -141,7 +140,7 @@ Ejemplo adelante.
 
 Código:
 
-```
+```bash
 [nombre enlace](./ruta a ir)
 ```
 
@@ -152,19 +151,19 @@ Ejemplo atrás.
 [nombre enlace](../)
 
 Código:
-```
+
+```bash
 [nombre enlace](../)
 ```
 
-	9. Menciones
+## Menciones de usuario
 
 Menciones mediante `@nombredeusuario`
 Ejemplo:
 
 @davidvelascogarcia
 
-
-	10. Comentario de código
+## Comentarios de código
 
 El comentario de código.
 
@@ -179,7 +178,7 @@ Ejemplo:
 
 Código:
 
-```
+```bash
 `Mensaje a comentar`
 ```
 
@@ -190,10 +189,10 @@ Código:
 
 Ejemplo:
 
-```
+```bash
 Mensaje a comentar
 ```
-		11. Índices y puntos
+## Índices y puntos
 
 * Índices
 Mediante:
@@ -207,7 +206,7 @@ Mediante:
 
 Código:
 
-```
+```markdown
 1. Elemento 1
 	1.Subelemto 1
 	2.Subelemento 2
@@ -219,20 +218,49 @@ Código:
 * Puntos
 Mediante:
 
-* Elemento 1.
-	* Subelemto 1.
-	* Subelemento 2.
-		*  Subsubelemento 1.
-* Elemento 2.
-* Elemento 3.
+* Elemento 1
+	* Subelemto 1
+	* Subelemento 2
+		*  Subsubelemento 1
+* Elemento 2
+* Elemento 3
 
 Código:
 
-```
+```markdown
 
-* Elemento 1.
-	* Subelemto 1.
-	* Subelemento 2.
-		*  Subsubelemento 1.
-* Elemento 2.
-* Elemento 3.
+* Elemento 1
+	* Subelemto 1
+	* Subelemento 2
+		*  Subsubelemento 1
+* Elemento 2
+* Elemento 3
+
+## Índices con hiperenlaces
+
+- [Entrada 1](#entrada-1)
+- [Entrada 2](#entrada-2)
+- [Entrada 3](#entrada-3)
+	-[Sub entrada 1](#sub-entrada-1)
+
+## Entrada 1
+## Entrada 2
+## Entrada 3
+### Sub entrada 1
+
+Código:
+
+```markdown
+
+
+- [Entrada 1](#entrada-1)
+- [Entrada 2](#entrada-2)
+- [Entrada 3](#entrada-3)
+	-[Sub entrada 1](#sub-entrada-1)
+
+## Entrada 1
+## Entrada 2
+## Entrada 3
+### Sub entrada 1
+
+```
