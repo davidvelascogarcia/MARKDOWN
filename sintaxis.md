@@ -12,8 +12,8 @@
 - [Desplazamiento entre directorios](#desplazamiento-entre-directorios)
 - [Menciones de usuario](#menciones-de-usuario)
 - [Comentarios de código](#comentarios de código)
-- [Índices y puntos](#índices-y-puntos)
-- [Índices con hiperenlaces](#índices-con-hiperenlaces)
+- [Indices y puntos](#indices-y-puntos)
+- [Indices con hiperenlaces](#indices-con-hiperenlaces)
 
 ## Tablas
 
@@ -192,7 +192,7 @@ Ejemplo:
 ```bash
 Mensaje a comentar
 ```
-## Índices y puntos
+## Indices y puntos
 
 * Índices
 Mediante:
@@ -236,7 +236,7 @@ Código:
 * Elemento 2
 * Elemento 3
 
-## Índices con hiperenlaces
+## Indices con hiperenlaces
 
 - [Entrada 1](#entrada-1)
 - [Entrada 2](#entrada-2)
