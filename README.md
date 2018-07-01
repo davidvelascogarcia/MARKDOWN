@@ -11,7 +11,7 @@
 
 ## Sintaxis
 
-Para más información sobre la sintaxis del lenguaje de marcado *Markdown*, consulte: [Sintaxis](./sintaxis.md).
+Para más información sobre la sintaxis del lenguaje de marcado *Markdown*, consulte: [Sintaxis](./docs/sintaxis.md).
 
 ## Enlaces de interés
 
