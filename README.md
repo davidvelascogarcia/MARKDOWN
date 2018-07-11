@@ -1,5 +1,5 @@
 # Lenguaje de marcado: Markdown
-[![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](https://github.com/davidvelascogarcia/Git)
+[![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](https://github.com/davidvelascogarcia/Markdown)
 
 - [Introducción](#introducción)
 - [Sintaxis](#sintaxis)
