@@ -2,7 +2,6 @@
 [![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](https://github.com/davidvelascogarcia/markdown)
 
 [![markdown Homepage](https://img.shields.io/badge/markdown-master-orange.svg)](https://github.com/davidvelascogarcia/markdown/tree/master/docs) [![Latest Release](https://img.shields.io/github/tag/davidvelascogarcia/markdown.svg?label=Latest%20Release)](https://github.com/davidvelascogarcia/markdown/tags)
-[![Build Status](https://travis-ci.org/davidvelascogarcia/markdown.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/markdown)
 
 - [Introducción](#introducción)
 - [Sintaxis](#sintaxis)
@@ -20,7 +19,6 @@ Se adjunta documentación sobre la sintaxis del lenguaje de marcado `markdown`, 
 
 ## Status
 
-[![Build Status](https://travis-ci.org/davidvelascogarcia/markdown.svg?branch=master)](https://travis-ci.org/davidvelascogarcia/markdown)
 
 [![Issues](https://img.shields.io/github/issues/davidvelascogarcia/markdown.svg?label=Issues)](https://github.com/davidvelascogarcia/markdown/issues)
 
