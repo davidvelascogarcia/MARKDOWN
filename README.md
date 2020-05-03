@@ -1,7 +1,5 @@
 # Lenguaje de marcado: Markdown
-[![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](https://github.com/davidvelascogarcia/markdown)
-
-[![markdown Homepage](https://img.shields.io/badge/markdown-master-orange.svg)](https://github.com/davidvelascogarcia/markdown/tree/master/docs) [![Latest Release](https://img.shields.io/github/tag/davidvelascogarcia/markdown.svg?label=Latest%20Release)](https://github.com/davidvelascogarcia/markdown/tags)
+[![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](https://github.com/davidvelascogarcia/markdown)[![markdown Homepage](https://img.shields.io/badge/markdown-master-orange.svg)](https://github.com/davidvelascogarcia/markdown/tree/master/docs) [![Latest Release](https://img.shields.io/github/tag/davidvelascogarcia/markdown.svg?label=Latest%20Release)](https://github.com/davidvelascogarcia/markdown/tags)
 
 - [Introducción](#introducción)
 - [Sintaxis](#sintaxis)
